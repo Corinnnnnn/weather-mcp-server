@@ -18,9 +18,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Corinnnnn/weather-mcp-server"
-Repository = "https://github.com/Corinnnnn/weather-mcp-server"
-"Bug Tracker" = "https://github.com/Corinnnnn/weather-mcp-server/issues"
+Homepage = "https://github.com/Corinnnnnn/weather-mcp-server"
+Repository = "https://github.com/Corinnnnnn/weather-mcp-server"
+"Bug Tracker" = "https://github.com/Corinnnnnn/weather-mcp-server/issues"
 
 [tool.setuptools]
 py-modules = ["server"]
